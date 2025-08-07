@@ -1,2 +1,4 @@
 # Pytorch
-Curso de Pytorch
+My journey learning the basics of PyTorch! 
+
+
